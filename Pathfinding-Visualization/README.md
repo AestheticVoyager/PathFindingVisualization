@@ -1,6 +1,6 @@
 # A* Pathfinding Visualization
 
-This is my first attempt at A* pathfinding. I made this visualization to show the beauty of pathfinding. You can modify all major features of my algorithm through the graphics interface. Here I will go through the major features of my program.
+We made this visualization to show the beauty of pathfinding. You can modify all major features of my algorithm through the graphics interface. Here I will go through the major features of our program.
 
 ## Basic Controls
 You must create a map to start the pathfinding. The start node is blue, end node is red and the walls are black. 
@@ -16,7 +16,7 @@ To delete nodes:
 ![basic-controls](https://cloud.githubusercontent.com/assets/25334129/22450191/f433bb24-e732-11e6-8004-19b923cf4d08.gif)
 
 ### Diagonal
-My algorithm supports both diagonal and non diagonal pathfinding. 
+Our algorithm supports both diagonal and non diagonal pathfinding. 
 
 Simply check the "diagonal" box at the bottom left of the screen.
 
@@ -42,7 +42,3 @@ This is useful for when you want to analyze the efficiency of my algorithm in di
 Those are the basics! Now you can be free to make the map as complicated as you desire. (Not really, because making the map too large will overflow the stack). But go ahead! 
 
 ![complicated-drawings](https://cloud.githubusercontent.com/assets/25334129/22450232/2b790d14-e733-11e6-8a91-4b4cba372f9b.gif)
-
-### Zoom
-You can (kind of) zoom in and out. I wouldn't really advise it. It does not zoom into your mouse, only towards the top left corner, and making the map too big will crash the program. This needs some work. 
-   
