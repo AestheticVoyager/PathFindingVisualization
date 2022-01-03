@@ -1,4 +1,4 @@
-# A* Pathfinding Visualization
+# A* Pathfinding Visualization in Java
 
 We made this visualization to show the beauty of pathfinding. You can modify all major features of my algorithm through the graphics interface. Here I will go through the major features of our program.
 
